@@ -10,11 +10,11 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description" content="かんたんにアップロード、リンクを取得できます。セキュリティはゼロ。">
+    <meta name="description" content="!!かんたんにアップロード、リンクを取得できます。セキュリティはゼロ。">
     <meta property="og:title" content="Markdown Parking">
-    <meta property="og:description" content="かんたんにアップロード、リンクを取得できます。セキュリティはゼロ。">
+    <meta property="og:description" content="_かんたんにアップロード、リンクを取得できます。セキュリティはゼロ。">
     <meta property="og:url" content="https://ketcha.xyz/pr/md/">
-    <meta property="og:image" content="https://ketcha.xyz/pr/md/bela_totte/1/watermark.jp">
+    <meta property="og:image" content="https://ketcha.xyz/pr/md/bela_totte/1/watermark.jpg">
     <meta property="og:type" content="article">
     <meta property="og:locale" content="ja_JP">
     <meta name="twitter:card" content="summary">
